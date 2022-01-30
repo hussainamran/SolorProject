@@ -9,11 +9,14 @@ public class Main {
         milkway.sun = 1;
         milkway.moon = 2;
         milkway.planets = 3;
-
-
         milkway.sun = 2;
         milkway.moon = 24;
         milkway.planets = 31;
+
+        SUN sol=new SUN();
+        sol.heat="wew3434234";
+        sol.radius="wrwe32rer";
+        sol.temp="23134244";
 
 
     }
