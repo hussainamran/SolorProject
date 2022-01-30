@@ -11,5 +11,10 @@ public class Main {
         milkway.planets = 3;
 
 
+        milkway.sun = 2;
+        milkway.moon = 24;
+        milkway.planets = 31;
+
+
     }
 }
