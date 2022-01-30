@@ -16,7 +16,7 @@ public class Main {
         SUN sol=new SUN();
         sol.heat="wew3434234";
         sol.radius="wrwe32rer";
-        sol.temp=23134244;
+        sol.temp="23134244";
 
 
     }
